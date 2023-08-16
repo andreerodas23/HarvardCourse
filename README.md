@@ -1,2 +1,1 @@
-# HarvardCourse
-This a repository from module 2 of CS50
+Este proyecto solo es una prueba para el modulo2 del curso CS50 dde la Universidad de Harvard.
